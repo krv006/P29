@@ -7,9 +7,9 @@
 # else:
 #     return False
 #
-from collections import Counter
-from curses.ascii import isdigit
-from lib2to3.btm_utils import reduce_tree
+# from collections import Counter
+# from curses.ascii import isdigit
+# from lib2to3.btm_utils import reduce_tree
 
 # 3174
 # s = "a8f"
@@ -159,3 +159,10 @@ from lib2to3.btm_utils import reduce_tree
 #     print(l[len(l) - 3])
 # print(max(l))
 
+
+# s = "SALOM UMIDA XITOYLIK"
+# print(s)
+#
+# a = 5
+# b = 12
+# print(a + b)

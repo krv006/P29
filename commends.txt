@@ -1,0 +1,6 @@
+1. sudo chown "$postgres:postgres"
+2. sudo -i -u postgres pg_dump -U postgres -d sport -F tar -f /home/bobur/py_project/exam5/sport.tar
+3. sudo chmod 777 sport.tar .
+4. sudo -i -u postgres
+5. pg_restore -d sport --table=coaches sport.tar
+

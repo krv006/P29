@@ -1,4 +1,4 @@
-from models.user import User
+from todo_project.models import User
 
 class AuthUI:
     session_user = None

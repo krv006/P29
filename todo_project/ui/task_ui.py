@@ -1,4 +1,4 @@
-from models.task import Task
+from todo_project.models.task import Task
 
 class TaskUI:
     def __init__(self, user):

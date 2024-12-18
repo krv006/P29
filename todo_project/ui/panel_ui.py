@@ -1,5 +1,5 @@
-from models.category import Category
-from ui.task_ui import TaskUI
+from todo_project.models.category import Category
+from todo_project.ui.task_ui import TaskUI
 
 class PanelUI:
     def __init__(self, user):

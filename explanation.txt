@@ -1,0 +1,28 @@
+task 1
+
+Sport database yaratdim table lar bilan birga.
+
+task 2
+
+faker dan foydalangan xolda malumot qoshib chiqdim
+
+task 3
+
+Har bir jamoaning ummiy yig'gan maulomoti oldim
+bunda ikkita table birbiriga bogaldim lekin 2 tableni ikkita alohida coulmlarin
+2 marta inner join qildim sababi matches table da bita jamoa 2 coluimda ochkolari bor sababli
+wunaqa qildim
+
+task 4
+
+triger function yaratdim va triger yaratdim
+
+task 5
+
+faqat function yaratdim faqat galaba qozongan murabiylar royxatidni olish
+
+task 6
+men players table position columni qoshdim har bitta jaomada oyinchilarnig position static tahlil qilish uchun
+
+task 7
+linux qodlari orqali backups oldim yani .tar faylga va bitta table qayta  tikladim coaches tableni 

@@ -166,3 +166,11 @@
 # a = 5
 # b = 12
 # print(a + b)
+
+
+# 1903
+# num = "4306"
+# for i in range(len(num) - 1, -1, -1):
+#     if num[i] in "13579":
+#         print(num[:i + 1])
+# print("")
